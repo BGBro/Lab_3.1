@@ -51,6 +51,6 @@ int main()
 
 	cout << endl;
 	cout << "2) y = " << y << endl;
-	cin.get();
-	return 0;
+
+	system("pause");
 }
