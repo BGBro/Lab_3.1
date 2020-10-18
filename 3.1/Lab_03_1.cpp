@@ -51,6 +51,12 @@ int main()
 
 	cout << endl;
 	cout << "2) y = " << y << endl;
+<<<<<<< HEAD
 
+=======
+	cin.get();
+	return 0;
+	
+>>>>>>> e3da69edb9eefa1325a4e8d939343ad2f18c9dd6
 	system("pause");
 }
